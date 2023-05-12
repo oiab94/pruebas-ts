@@ -6,4 +6,4 @@ Pruebas realizada para practicar TypeScript
   - [Forma recomendada de configurar tsconfig.json](https://www.npmjs.com/package/@tsconfig/recommended)
 - [TS-NODE](/ts-node/)
 - ### Tipos de datos
-  - [Objetos](/tipos-objetos/)
+  - [Interfaces](/tipos-interfaces/)
