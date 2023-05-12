@@ -7,3 +7,4 @@ Pruebas realizada para practicar TypeScript
 - [TS-NODE](/ts-node/)
 - ### Tipos de datos
   - [Interfaces](/tipos-interfaces/)
+  - [Clases](/tipos-clases/)
