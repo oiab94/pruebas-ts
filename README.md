@@ -8,3 +8,4 @@ Pruebas realizada para practicar TypeScript
 - ### Tipos de datos
   - [Interfaces](/tipos-interfaces/)
   - [Clases](/tipos-clases/)
+  - [Never](/tipos-never/)
