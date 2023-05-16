@@ -9,3 +9,4 @@ Pruebas realizada para practicar TypeScript
   - [Interfaces](/tipos-interfaces/)
   - [Clases](/tipos-clases/)
   - [Never](/tipos-never/)
+  - [Combinación](/tipos-combinacion/)
