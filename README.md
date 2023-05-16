@@ -12,3 +12,4 @@ Pruebas realizada para practicar TypeScript
   - [Combinación](/tipos-combinacion/)
 
 - [Sobrecarga de Funciones](/funciones-sobrecarga/)
+- [Extendiendo Interface](/interface-extension/)
