@@ -10,3 +10,5 @@ Pruebas realizada para practicar TypeScript
   - [Clases](/tipos-clases/)
   - [Never](/tipos-never/)
   - [Combinación](/tipos-combinacion/)
+
+- [Sobrecarga de Funciones](/funciones-sobrecarga/)
