@@ -13,3 +13,4 @@ Pruebas realizada para practicar TypeScript
 
 - [Sobrecarga de Funciones](/funciones-sobrecarga/)
 - [Extendiendo Interface](/interface-extension/)
+- [Interface con métodos](/interface-declaracion/)
