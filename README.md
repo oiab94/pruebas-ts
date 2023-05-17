@@ -14,3 +14,5 @@ Pruebas realizada para practicar TypeScript
 - [Sobrecarga de Funciones](/funciones-sobrecarga/)
 - [Extendiendo Interface](/interface-extension/)
 - [Interface con métodos](/interface-declaracion/)
+- [Clases abstracta](/clases/src/abstracta.ts)
+- [Clases Herencia-Polimorfismo](/clases/src/herencia-polimorfismo.ts)
