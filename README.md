@@ -16,3 +16,4 @@ Pruebas realizada para practicar TypeScript
 - [Interface con métodos](/interface-declaracion/)
 - [Clases abstracta](/clases/src/abstracta.ts)
 - [Clases Herencia-Polimorfismo](/clases/src/herencia-polimorfismo.ts)
+- [Clases Genericas](/clases-genericas/)
