@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"target": "ES5",			// La version de js que compila
+		"module": "CommonJS",	// El tipo de módulo que se está utilizando
+		"strict": true,				// Chequeo estricto de datos
+		"outDir": "./dist",		// La dirección de salida de los archivos compilados JS
+		"rootDir": "./src"		// El directorio root de los archivos TS
+	},
+	"include": ["src/**/*"],	// Array con la dirección de los archivos/directorios que se incluye en la compilación
+	"exclude": ["node_modules"]	// Array con la dirección de exlución
+}
