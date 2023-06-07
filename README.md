@@ -10,6 +10,8 @@ Pruebas realizada para practicar TypeScript
   - [Clases](/tipos-clases/)
   - [Never](/tipos-never/)
   - [Combinación](/tipos-combinacion/)
+    - [Union](/tipos-combinacion-union/)
+    - [Interseccion](/tipos-combinacion-interseccion/)
 
 - [Sobrecarga de Funciones](/funciones-sobrecarga/)
 - [Extendiendo Interface](/interface-extension/)
